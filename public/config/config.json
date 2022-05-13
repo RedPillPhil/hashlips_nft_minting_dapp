@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xa5a21Cdc7280bdc7851A097E09BFFD4C55c6eeB9",
   "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
+  "NFT_NAME": "bubby",
+  "SYMBOL": "bubs",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 75000000000000000,
   "DISPLAY_COST": 0.075,
